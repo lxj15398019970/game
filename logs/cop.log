@@ -1,2 +1,0 @@
-2014-08-14 18:06:31,844 [main] WARN  [org.springframework.web.client.RestTemplate] - POST request for "http://cop.xy189.cn/cop/v2/parent/student/tutors/query.shtml?ACCESS_KEY=45bh8CM913&SIGN=MD5:1ab9cf89fbbc06e2997c93130fc9bec2" resulted in 400 (Bad Request); invoking error handler
-2014-08-14 18:11:22,710 [main] WARN  [org.springframework.web.client.RestTemplate] - POST request for "http://cop.xy189.cn/cop/v2/parent/student/tutors/query.shtml?ACCESS_KEY=45bh8CM913&SIGN=MD5:1ab9cf89fbbc06e2997c93130fc9bec2" resulted in 400 (Bad Request); invoking error handler
