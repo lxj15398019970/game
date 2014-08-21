@@ -3,11 +3,7 @@ package cn.lixiangjun.game.controller.user;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-/**
- * 开放API 第二版
- * @author xjli
- *
- */
+
 
 
 @Controller
