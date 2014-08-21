@@ -1,3 +1,11 @@
 /bin
 /build
 /build
+/.git
+/.gradle
+/.settings
+/bin
+/build
+/logs
+/.classpath
+/.project
