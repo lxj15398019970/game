@@ -1,0 +1,73 @@
+.navbar-default {
+    background: #1f4e7c;
+    border: none;
+    border-radius: 0;
+    color: #fff;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background: #417bb6;
+    color: #fff;
+    display: inline-block;
+    float: left;
+    font-family: Microsoft YaHei;
+    font-size: 14px;
+    height: 100%;
+    position: relative;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #fff;
+    background-color: transparent;
+}
+
+
+
+.footer {
+    background: #f3f3f3;
+    border-top: 1px solid #e6e6e6;
+    color: #898989;
+    font-size: 12px;
+    line-height: 22px;
+    margin: 20px 0 0;
+    overflow: hidden;
+    padding: 0;
+    text-align: left;
+}
+
+.footer p {
+    text-align: center;
+    padding: 20px 0;
+    margin: 0;
+}
+
+.open-api-nav .nav > .active > a,
+.open-api-nav .nav > .active:hover > a,
+.open-api-nav .nav > .active:focus > a {
+    background-color: transparent;
+    border-left: 2px solid #563d7c;
+    color: #563d7c;
+    font-weight: 700;
+    padding-left: 18px;
+}
+
+@media (min-width: 780px) {
+    #container-nav {
+        width: 999px;
+        margin: 0 auto;
+    }
+
+    .container {
+        width: 999px;
+    }
+    #navbar-nav {
+        float: left;
+        margin: 0 0 0 150px;
+    }
+
+}

@@ -1,0 +1,2 @@
+2014-08-07 17:52:24,005 [main] WARN  [org.springframework.web.client.RestTemplate] - GET request for "http://172.16.120.108/tecc-cop-war/tutor/getSubjectByGradeId/3.shtml?ACCESS_KEY=45bh8CM913&SIGN=MD5:d7e181cab2d2296a842f029fba9b3c42" resulted in 404 (Not Found); invoking error handler
+2014-08-07 17:53:39,951 [main] WARN  [org.springframework.web.client.RestTemplate] - GET request for "http://172.16.120.108/tecc-cop-war/tutor/getSubjectByGradeId/3.shtml?ACCESS_KEY=45bh8CM913&SIGN=MD5:d7e181cab2d2296a842f029fba9b3c42" resulted in 404 (Not Found); invoking error handler
